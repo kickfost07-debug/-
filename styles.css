@@ -283,7 +283,7 @@ fieldset {
 .hero__bg {
   position: absolute;
   inset: 0;
-  background-image: url('images/hero.jpg');
+  background-image: url('https://raw.githubusercontent.com/kickfost07-debug/-/main/images/hero.jpg');
   background-size: cover;
   background-position: center;
   transform: scale(1.02);
@@ -1536,7 +1536,7 @@ fieldset {
 .cta-banner__bg {
   position: absolute;
   inset: 0;
-  background-image: url('images/process-1.jpg');
+  background-image: url('https://raw.githubusercontent.com/kickfost07-debug/-/main/images/process-1.jpg');
   background-size: cover;
   background-position: center;
 }
