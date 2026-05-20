@@ -1,0 +1,8 @@
+# Служебные скрипты генерации (на сайт не нужны)
+images/*.py
+images/*.svg
+images/*.txt
+
+.DS_Store
+Thumbs.db
+*.log
