@@ -33,11 +33,11 @@
   /** Превью в калькуляторе при смене модели */
   const MODEL_PREVIEW = {
     solo: {
-      src: 'https://raw.githubusercontent.com/kickfost07-debug/-/main/images/home-1.jpg',
+      src: 'https://cdn.jsdelivr.net/gh/kickfost07-debug/-@main/images/home-1.jpg',
       alt: 'Превью модели SOLO'
     },
     duo: {
-      src: 'https://raw.githubusercontent.com/kickfost07-debug/-/main/images/home-2.jpg',
+      src: 'https://cdn.jsdelivr.net/gh/kickfost07-debug/-@main/images/home-2.jpg',
       alt: 'Превью модели DUO'
     }
   };
